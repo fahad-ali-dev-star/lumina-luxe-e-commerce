@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Luxe E-Commerce",
+  "description": "A premium, AI-powered e-commerce platform featuring a modern shopping experience, intelligent product management, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
