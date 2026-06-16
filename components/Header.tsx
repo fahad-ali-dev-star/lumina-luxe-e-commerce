@@ -22,7 +22,7 @@ const Header: React.FC<HeaderProps> = ({ currentView, setView, cartCount, userRo
               onClick={() => setView('shop')}
               className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-violet-600 cursor-pointer"
             >
-              Lumina Luxe
+              online bazzar
             </h1>
             <div className="hidden md:flex space-x-6">
               <button
